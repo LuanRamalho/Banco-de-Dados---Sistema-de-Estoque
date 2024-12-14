@@ -1,0 +1,24 @@
+{
+    "produtos": [
+        {
+            "sku": "001",
+            "descricao": "Sab\u00e3o em p\u00f3",
+            "fornecedor": "Omo",
+            "preco_custo": 5.0,
+            "preco_venda": 10.0,
+            "unidade": "5",
+            "localizacao": "Rio de Janeiro - RJ",
+            "estoque": 5
+        },
+        {
+            "sku": "002",
+            "descricao": "Salgadinho de Milho",
+            "fornecedor": "Elma Chips",
+            "preco_custo": 2.0,
+            "preco_venda": 5.0,
+            "unidade": "25",
+            "localizacao": "S\u00e3o Paulo - SP",
+            "estoque": 20
+        }
+    ]
+}
